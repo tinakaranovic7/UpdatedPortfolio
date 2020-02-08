@@ -1,0 +1,2 @@
+# Homework
+I'm not able to submit homework until due date, since I was moving this week and these days I didn't have internet setup and not enough time to focus on homework. I will submit homework 2 the latest until Saturday. Thanks
