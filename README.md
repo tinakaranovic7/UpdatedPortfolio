@@ -1,2 +1,23 @@
-# Homework
-I'm not able to submit homework until due date, since I was moving this week and these days I didn't have internet setup and not enough time to focus on homework. I will submit homework 2 the latest until Saturday. Thanks
+# Updated Portfolio
+​
+#### Updated-Portfolio-Repo, 02/07/19
+#### Updated 03/31/20
+​
+#### By Tina Karanovic
+​
+## Description
+​
+This is my professional developer portfolio with a simple but elegant style.
+​
+## Technologies Used
+​
+HTML
+​
+CSS, Bootstrap
+​
+Javascript, jquery
+​
+#  Direct link to site:
+https://tinakaranovic7.github.io/UpdatedPortfolio/
+
+
